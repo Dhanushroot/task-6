@@ -41,6 +41,7 @@ To understand what makes a password strong by testing different passwords using:
 ## Results from `pwtool.py`
 *(Extracted from `results.txt`)*
 
+
 ```
 Password analysis results shown in results.txt file.
 ```

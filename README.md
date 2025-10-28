@@ -162,3 +162,9 @@ Through this task, I learned how to:
 
 **Final Understanding:**  
 > Password strength isn’t just about symbols — it’s about being long, unique, and unpredictable.
+---
+
+### **Author**
+- **Cybersecurity Intern – Task 5** 
+- Your Name : DHANUSH S 
+- Date: 28 Oct 2025

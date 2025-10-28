@@ -41,9 +41,44 @@ To understand what makes a password strong by testing different passwords using:
 ## Results from `pwtool.py`
 *(Extracted from `results.txt`)*
 
-
 ```
-Password analysis results shown in results.txt file.
+============================================================
+ pwtool.py — Password Analyzer & Custom Wordlist Generator  
+             defensive testing / education only             
+============================================================
+Password analysis:
+  Password: 123456
+  Entropy: 15.93
+  Score: Very weak
+  Feedback:
+   - Password is short — use 12+ characters for better security.
+   - Add symbols to increase strength.
+============================================================
+Password analysis:
+  Password: Password123
+  Entropy: 51.5
+  Score: Reasonable
+  Feedback:
+   - Add symbols to increase strength.
+============================================================
+Password analysis:
+  Password: P@ssw0rd
+  Entropy: 52.44
+  Score: Reasonable
+============================================================
+Password analysis:
+  Password: T@ndSp@ce2025
+  Entropy: 79.21
+  Score: Strong
+  Feedback:
+   - Password contains a year — years are common and predictable.
+============================================================
+Password analysis:
+  Password: Ilovechocolatecake
+  Entropy: 102.61
+  Score: Very strong
+  Feedback:
+   - Add symbols to increase strength.
 ```
 
 ---

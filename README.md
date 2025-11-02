@@ -165,6 +165,6 @@ Through this task, I learned how to:
 ---
 
 ### **Author**
-- **Cybersecurity Intern – Task 5** 
+- **Cybersecurity Intern – Task 6** 
 - Your Name : DHANUSH S 
 - Date: 28 Oct 2025
